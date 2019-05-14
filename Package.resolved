@@ -1,0 +1,151 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/Boilertalk/BigInt.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "fd9b2ebff53e7fd211a7d2b2ea682db300a8571b",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Cryptor",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueCryptor.git",
+        "state": {
+          "branch": null,
+          "revision": "6f79b4ea0a7ef8acb08ba3f3e23da32e83acaca3",
+          "version": "1.0.28"
+        }
+      },
+      {
+        "package": "Cdns_sd",
+        "repositoryURL": "https://github.com/Bouke/Cdns_sd.git",
+        "state": {
+          "branch": null,
+          "revision": "b6dce342895400d0cd86726ad0fcdcad7abc6137",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "CLibSodium",
+        "repositoryURL": "https://github.com/Bouke/CLibSodium.git",
+        "state": {
+          "branch": null,
+          "revision": "0244e3b03f41bb4e144ea290aeb6c494e5b7e9e0",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "Evergreen",
+        "repositoryURL": "https://github.com/Bouke/Evergreen.git",
+        "state": {
+          "branch": null,
+          "revision": "4d9d17d6efca12398de2b0a4c9c5a4eacc556e03",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "HAP",
+        "repositoryURL": "https://github.com/ahti/HAP.git",
+        "state": {
+          "branch": "nio2",
+          "revision": "55ce1265c62b373eedc43c5286f79f7e08903746",
+          "version": null
+        }
+      },
+      {
+        "package": "HKDF",
+        "repositoryURL": "https://github.com/Bouke/HKDF.git",
+        "state": {
+          "branch": null,
+          "revision": "9b9e521b49e5b529c33f4abe35a00e144af51e00",
+          "version": "3.1.0"
+        }
+      },
+      {
+        "package": "NetService",
+        "repositoryURL": "https://github.com/Bouke/NetService.git",
+        "state": {
+          "branch": null,
+          "revision": "9eb5b6a3e638222d3841574d2ecbca4cf3bd6374",
+          "version": "0.6.0"
+        }
+      },
+      {
+        "package": "nio-websocket-client",
+        "repositoryURL": "https://github.com/ahti/nio-websocket-client.git",
+        "state": {
+          "branch": "master",
+          "revision": "b2ee25a5a3a91dd0520e8802b653f66233d25e84",
+          "version": null
+        }
+      },
+      {
+        "package": "OpenSSL",
+        "repositoryURL": "https://github.com/IBM-Swift/OpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "6c7e2e3610037fbc05c0d846cec981518961d8bf",
+          "version": "2.2.2"
+        }
+      },
+      {
+        "package": "Regex",
+        "repositoryURL": "https://github.com/crossroadlabs/Regex.git",
+        "state": {
+          "branch": null,
+          "revision": "166728756082a9cac6e4aed3ebbce8e41cb3a945",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "SRP",
+        "repositoryURL": "https://github.com/Bouke/SRP.git",
+        "state": {
+          "branch": null,
+          "revision": "9f3d77de5dbaac52d30b1d51d75e853fabb8fa8b",
+          "version": "3.1.0"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "0e37ada7cc6b68452716d706849b6868a2a77429",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
+        "state": {
+          "branch": null,
+          "revision": "f9ac0c3486f8e9333e791caf135e3fe067e0e66c",
+          "version": "2.0.2"
+        }
+      },
+      {
+        "package": "SwiftPM",
+        "repositoryURL": "https://github.com/apple/swift-package-manager.git",
+        "state": {
+          "branch": null,
+          "revision": "235aacc514cb81a6881364b0fedcb3dd083228f3",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

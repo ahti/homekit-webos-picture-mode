@@ -1,0 +1,15 @@
+version: '3'
+
+volumes:
+  data:
+
+services:
+  app:
+    restart: always
+    build: .
+    image: homekit-webos-picture-mode
+    tty: true
+    network_mode: host
+    volumes:
+      - data:/data
+      - /var/run/dbus:/var/run/dbus
